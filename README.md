@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+I been working as a software developer since 7 years.</strong></h3>
 
 - <a target="_blank" href="https://www.linkedin.com/in/joaquin-rodriguez-a9532272/"> Linkedin </a>
 - <a target="_blank" href="https://twitter.com/joacorob">Twitter</a>
