@@ -18,8 +18,9 @@ I been working as a software developer since 7 years.</strong></h3>
 const joacorob = {
   otherAlias: "Full Stack Developer",
   backendExperience: ["NodeJs", "Ruby&Rails", "Laravel"],
-  frontExperience: ["NodeJs", "Ruby&Rails", "Laravel"],
+  frontExperience: ["ReactJs", "VueJS", "Vanilla&jQuery"],
   scriptingExperience: ["Python"],
+  blockchainExperience: ["Solidity", "Truffle", "HardHat"],
   dbExperience: ["MongoDB", "SQL"],
   currentlylearning: ["AI & ML","BlockChain"],
   youWontFindThisInLinkedin: [
