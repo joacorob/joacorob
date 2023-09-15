@@ -3,9 +3,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Joaquín Rodríguez.</strong>
 </h1>
 
-<h3 align="left"><strong>
-I been working as a software developer since 7 years.</strong></h3>
-
 - <a target="_blank" href="https://www.linkedin.com/in/joaquin-rodriguez-a9532272/"> Linkedin </a>
 - <a target="_blank" href="https://twitter.com/joacorob">Twitter</a>
 - <a target="_blank" href="https://instagram.com/joacorob7"> Instagram <a>
