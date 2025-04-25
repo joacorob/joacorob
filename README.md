@@ -1,33 +1,54 @@
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Joaquín Rodríguez.</strong>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
+  <strong>Hello there, I'm Joaquín Rodríguez.</strong>
 </h1>
 
-- <a target="_blank" href="https://www.linkedin.com/in/joaquin-rodriguez-a9532272/"> Linkedin </a>
-- <a target="_blank" href="https://twitter.com/joacorob">Twitter</a>
-- <a target="_blank" href="https://instagram.com/joacorob7"> Instagram <a>
+<p>🇺🇾 Blockchain Engineer & Full Stack Developer — building useful products with AI, crypto, and code.</p>
 
-<br>
+- 🌐 [jrcrypto.dev](https://jrcrypto.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaquin-rodriguez-a9532272/)
+- 🐦 [Twitter](https://twitter.com/joacorob)
+- 📬 <a href="mailto:joacorob@gmail.com">joacorob@gmail.com</a>
 
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+---
+
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> `aboutMe.js`
 
 ```javascript
 const joacorob = {
-  otherAlias: "Full Stack Developer",
-  backendExperience: ["Node", "Ruby&Rails", "Laravel"],
-  frontExperience: ["ReactJs", "VueJS", "Vanilla&jQuery"],
-  scriptingExperience: ["Python", "Node"],
-  blockchainExperience: ["Solidity", "Truffle", "HardHat"],
-  dbExperience: ["MongoDB", "SQL"],
-  currentlylearning: ["AI & ML","BlockChain"],
+  otherAlias: "Blockchain Engineer",
+  backendExperience: ["Node.js", "Ruby on Rails", "Golang", "Laravel"],
+  frontExperience: ["React.js", "Vue.js", "Next.js", "Vanilla JS", "jQuery"],
+  scriptingExperience: ["Python", "Node.js"],
+  blockchainExperience: ["Solidity", "Web3.js", "Ethers.js", "Truffle", "HardHat", "Chainlink"],
+  dbExperience: ["PostgreSQL", "MongoDB", "MySQL"],
+  currentlyLearning: ["AI & ML", "Layer 2 Rollups", "Smart Router Design"],
   youWontFindThisInLinkedin: [
     {
-      company : "OleCoin",
-      post : "Web3 & BlockChain DEV"
+      company: "OleCoin",
+      post: "Web3 & Blockchain Developer"
     },
     {
-      company : "SmartSports",
-      post : "10% CEO, 90% Developer"
+      company: "SmartSports",
+      post: "10% CEO, 90% Developer"
+    },
+    {
+      company: "Simpled.app",
+      post: "Founder & Developer — No-code dApp Builder"
+    },
+    {
+      company: "T2Coach.app",
+      post: "AI Coach Planner & Full Stack Lead"
+    },
+    {
+      company: "Dream Dapp",
+      post: "NFT Marketplace Developer"
+    },
+    {
+      company: "Super Whale DAO",
+      post: "P2E Game and Staking dApp Engineer"
     }
   ]
 }
